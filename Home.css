@@ -77,3 +77,15 @@ header {
 .navbar-dark bg-dark {
     background-color: white;
 }
+
+.bg-dark{
+    background-color: white!important;
+}
+
+.bg-dark h5{
+    color: #1C1C1C!important;
+}
+
+.navbar-toggler{
+    background-color: #1C1C1C!important;
+}
