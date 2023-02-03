@@ -1,0 +1,71 @@
+body {
+    margin: 0% 10% 0% 10%;
+    background-color: #696969;
+}
+
+header {
+    width: 100%;
+    background-color: #1C1C1C;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20% 0px 20px 0px;
+}
+
+#logo {
+    width: 150px;
+}
+
+.infos {
+    align-items: center;
+
+}
+
+.infos li {
+    display: inline-block;
+    color: white;
+    display: inline-block;
+}
+
+.infos h6 {
+    color:#696969;
+}
+
+#end {
+    /* border: 1px solid white; */
+}
+
+#endimg {
+    width: 50px;
+    margin: -50px 12px 0px 0px;
+
+}
+
+#cont {
+    /* border: 1px solid white; */
+}
+
+#contimg {
+    width: 35px;
+    margin: -60px 12px 0px 0px;
+}
+
+#func {
+    /* border: 1px solid white; */
+}
+
+#funcimg {
+    width: 35px;
+    margin: -60px 12px 0px 0px;
+}
+
+#divisoria {
+    width: 80px;
+    margin: -60px 0px 0px 12px;
+}
+
+.container-fluid {
+    margin-right: -94% ;
+}
+
+
